@@ -7,6 +7,8 @@ public class HelloWorld {
     }
 }
 
-- [x] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [x] Introduce myself to the world
+- [ ] Set up project repository
+- [ ] Write initial documentation
+- [ ] Implement core functionality
+- [ ] Write unit tests
+- [ ] Review and merge pull requests
