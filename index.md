@@ -6,3 +6,7 @@ public class HelloWorld {
         System.out.println("Hello, world!");
     }
 }
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
